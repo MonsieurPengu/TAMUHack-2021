@@ -1,10 +1,15 @@
 Project Ideas:
-  1) Literally anything to do with financial literacy,other
-  2) something to do with STONKS 
-  3) something to do with AR/VR(if possible
-  4)something that "helps people"
-  5)something that helps with WFH related stuff
-  6)something that looks "pretty"
+1) Literally anything to do with financial literacy,other
+
+2) something to do with STONKS 
+ 
+3) something to do with AR/VR(if possible
+
+4)something that "helps people"
+
+5)something that helps with WFH related stuff
+ 
+ 6)something that looks "pretty"
 
 
 Judging Criteria
