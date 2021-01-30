@@ -5,7 +5,7 @@ Project Ideas:
  
 3) something to do with AR/VR(if possible)
 
-4) something that "helps people"
+4) something that "helps people" - socially/
 
 5) something that helps with WFH related stuff
  
