@@ -11,6 +11,8 @@ Project Ideas:
  
 6) something that looks "pretty"
 
+7) Hacker Favorite pogu? (memes)
+
 Concrete Ideas:
 1) Chat App for students to help each other
 2) App that just literally teaches you financial literacy related stuff
