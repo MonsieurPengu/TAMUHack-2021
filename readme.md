@@ -1,5 +1,5 @@
 Project Ideas:
-1) Literally anything to do with financial literacy,other
+1) Literally anything to do with financial literacy,investing, other money related nonsense
 
 2) something to do with STONKS 
  
