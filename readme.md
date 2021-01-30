@@ -19,6 +19,7 @@ Concrete Ideas:
 3) App that helps you budget your money/other money related stuff
 4) VR App that can detect when areas are going to flood by measuring weather data + elevation data(can be hooked up to camera to obtain elevation data on the fly/help with disaster relief)
 5) Lecture/Presentation App that's simple to use and will have a lecturer role +nonlecturer roles that cannot be changed
+6) Local food delivery app (promotes environmental awareness)
 
 
 
