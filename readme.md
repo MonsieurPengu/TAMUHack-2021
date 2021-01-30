@@ -3,7 +3,7 @@ Project Ideas:
 
 2) something to do with STONKS 
  
-3) something to do with AR/VR(if possible
+3) something to do with AR/VR(if possible)
 
 4) something that "helps people"
 
