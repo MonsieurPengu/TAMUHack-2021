@@ -1,28 +1,32 @@
 import React from 'react';
-
 import { createStackNavigator } from "@react-navigation/stack";
-import { NavigationContainer } from '@react-navigation/native'
+import { NavigationContainer, DefaultTheme } from '@react-navigation/native';
 
-import { Restaurant, OrderDelivery } from './screens'
-import Tabs from './navigation/tabs'
+import { Home } from "./screens/";
+
+const theme = {
+    ...DefaultTheme,
+    colors: {
+        ...DefaultTheme.colors,
+        border: "transparent",
+    },
+};
 
 const Stack = createStackNavigator();
 
 const App = () => {
     return (
-        <NavigationContainer>
+        <NavigationContainer theme={theme}>
             <Stack.Navigator
                 screenOptions={{
                     headerShown: false
                 }}
                 initialRouteName={'Home'}
             >
-                <Stack.Screen name="Home" component={Tabs} />
-                <Stack.Screen name="Restaurant" component={Restaurant} />
-                <Stack.Screen name="OrderDelivery" component={OrderDelivery} />
+                <Stack.Screen name="Home" component={Home} />
             </Stack.Navigator>
         </NavigationContainer>
-    )
-}
+    );
+};
 
 export default App;
