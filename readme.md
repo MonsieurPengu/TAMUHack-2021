@@ -23,6 +23,11 @@ Concrete Ideas:
 
 
 
+**Make Expo Project before cloning**
+
+
+
+
 Judging Criteria
 
     Design
